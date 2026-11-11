@@ -81,7 +81,8 @@ The Power BI dashboard consists of three pages:
 
 **Segment Analysis**
 
-![RFM Segment Analysis](RFM%20analysis%20-segment.png)
+![RFM Segment Analysis](RFM%20analysis-%20segment.png)
+
 
 **Country Analysis**
 
