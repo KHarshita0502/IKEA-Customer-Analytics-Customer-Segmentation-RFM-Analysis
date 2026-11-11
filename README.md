@@ -37,7 +37,6 @@ The project uses publicly available datasets from the UCI Machine Learning Repos
 
 These datasets contain retail transaction details such as invoice numbers, product descriptions, quantities, unit prices, customer IDs, and country information.
 
-**Dataset Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
 
 ## 6. Tools & Technologies
 
@@ -59,6 +58,34 @@ These datasets contain retail transaction details such as invoice numbers, produ
 ## 8. Dashboard Screenshots
 
 The Power BI dashboard consists of three pages:
+
+## 8. Dashboard Screenshots
+
+The Power BI dashboard consists of three pages:
+
+### Home Page
+
+![Home Page](home%20page.png)
+
+### Business Overview
+
+**Revenue Analysis**
+
+![Revenue Analysis](business%20overview-Revenue.png)
+
+**Customer Analysis**
+
+![Customer Analysis](business%20overview-customers.png)
+
+### RFM Analysis
+
+**Segment Analysis**
+
+![RFM Segment Analysis](RFM%20analysis%20-segment.png)
+
+**Country Analysis**
+
+![RFM Country Analysis](RFM%20analysis%20-country.png)
 
 
 ### Home Page
