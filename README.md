@@ -55,9 +55,6 @@ These datasets contain retail transaction details such as invoice numbers, produ
 5. Developed interactive dashboards using Power BI.
 6. Analyzed customer segments, revenue performance, and purchasing trends.
 
-## 8. Dashboard Screenshots
-
-The Power BI dashboard consists of three pages:
 
 ## 8. Dashboard Screenshots
 
